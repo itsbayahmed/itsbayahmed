@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning C programming language
+- 👀 I’m interested in blogging about FOSS (Free and Open Source Software)
+- 📫 How to reach me at abay@duck.com 
