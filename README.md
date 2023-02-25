@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning C programming language
 - 👀 I’m interested in blogging about FOSS (Free and Open Source Software)
-- 📫 How to reach me at abay@duck.com 
+- 📫 Contact me at abay@duck.com 
