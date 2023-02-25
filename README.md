@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently a Software Engineering student at ALX Africa.
-- 🌱 I’m currently learning C programming language.
-- 👀 I’m interested in blogging about FOSS (Free and Open Source Software).
-- 📫 Contact me at abay@duck.com 
+- 🔭  I’m currently a Software Engineering student at ALX Africa.
+- 🌱  I’m currently learning C programming language.
+- 👀  I’m interested in blogging about FOSS (Free and Open Source Software).
+- 📫  Contact me at abay@duck.com 
