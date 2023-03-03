@@ -1,7 +1,8 @@
-### Hi there 👋
+
 
 <!--
 **itsbayahmed/itsbayahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
 Here are some ideas to get you started:
 
@@ -15,15 +16,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Quick overview
-* GitHub stats:  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=itsbayahmed&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
-</a>  
+### Hi there, my name is Ahmed
 
-- 🔭  I’m currently a Software Engineering student at ALX Africa.
+
+![](https://rishavanand.github.io/static/images/greetings.gif)
+
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@8.6.0/icons/github.svg' alt='github' height='40 allign=center'>](https://github.com/itsbayahmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@8.6.0/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/itsbayahmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@8.6.0/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCeGlWbHS4OQRz9TGMjyST_w)
+ -->
+
+🔭 I’m  a Software Engineering student at ALX Africa.
+
 - 🌱  I’m currently learning C programming language.
 - 👀  I’m interested in blogging about FOSS (Free and Open Source Software).
 - 📫  Contact me at abay@duck.com 
+</br>
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=itsbayahmed)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsbayahmed)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsbayahmed&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=itsbayahmed)  
+
