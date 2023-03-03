@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=itsbayahmed)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭  I’m currently a Software Engineering student at ALX Africa.
 - 🌱  I’m currently learning C programming language.
 - 👀  I’m interested in blogging about FOSS (Free and Open Source Software).
 - 📫  Contact me at abay@duck.com 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=itsbayahmed)](https://github.com/ryo-ma/github-profile-trophy)
