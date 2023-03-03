@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Quick overview
+* GitHub stats:  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=itsbayahmed&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>  
+
 - 🔭  I’m currently a Software Engineering student at ALX Africa.
 - 🌱  I’m currently learning C programming language.
 - 👀  I’m interested in blogging about FOSS (Free and Open Source Software).
