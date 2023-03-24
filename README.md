@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, my name is Ahmed
+### Hi there, my name is Ahmed. Welcome to my GitHub profile 🙋🏻‍♂️ :
 
 
 ![](https://rishavanand.github.io/static/images/greetings.gif)
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 🔭 I’m  a Software Engineering student at ALX Africa.
 
-- 🌱  I’m currently learning C programming language.
+- 🌱  I’m currently learning the C programming language.
 - 👀  I’m interested in blogging about FOSS (Free and Open Source Software).
 - 📫  Contact me at abay@duck.com 
 </br>
