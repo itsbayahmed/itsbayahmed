@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, my name is Ahmed. Welcome to my GitHub profile 🙋🏻‍♂️ :
+### Hi there, my name is Ahmed.
+Welcome to my GitHub profile 🙋🏻‍♂️ :
 
 
 ![](https://rishavanand.github.io/static/images/greetings.gif)
